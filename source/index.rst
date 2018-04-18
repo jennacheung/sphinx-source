@@ -11,12 +11,14 @@ Welcome to y's documentation!
    :caption: first:
    
    demo/test.rst
+   demo/test1.rst
 
 .. toctree::
    :maxdepth: 2
    :caption: second:
    
-   demo/test1.rst
+   intro/t.rst
+   intro/t1.rst
  
 
 
