@@ -20,6 +20,7 @@
     #. It has two items too.
 
 允许嵌套列表但必须用空行同父列表分离开::
+
     * this is
     * a list
 
@@ -34,12 +35,13 @@
 创建引用段落只需要用缩进和其它段落区分即可.
 
 线块 (ref) 是保留换行符的一种方法::
+
     | These lines are
     | broken exactly like in
     | the source file.
 
 更多内容参考：
-.. _rst:http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html#hyperlink-targets
+http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html#hyperlink-targets
 
 
 

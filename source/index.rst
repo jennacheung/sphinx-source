@@ -10,19 +10,19 @@ Welcome to y's documentation!
    :maxdepth: 2
    :caption: 列表和引用块:
    
-   demo/列表和引用块.rst
+   demo/test1.rst
 
 .. toctree::
    :maxdepth: 2
    :caption: 源代码:
    
-   demo/源代码.rst
+   demo/test2.rst
 
 .. toctree::
    :maxdepth: 2
    :caption: 源文本编码:
    
-   demo/源文本编码.rst
+   demo/test3.rst
  
 
 
