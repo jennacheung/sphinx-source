@@ -8,17 +8,21 @@ Welcome to y's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: first:
+   :caption: 列表和引用块:
    
-   demo/test.rst
-   demo/test1.rst
+   demo/列表和引用块.rst
 
 .. toctree::
    :maxdepth: 2
-   :caption: second:
+   :caption: 源代码:
    
-   intro/t.rst
-   intro/t1.rst
+   demo/源代码.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 源文本编码:
+   
+   demo/源文本编码.rst
  
 
 
